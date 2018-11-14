@@ -5,7 +5,7 @@ This repo contains my info and code from the Facebook PyTorch scholarship challa
 The following table lists suggested deadlines for the Facebook PyTorch Scholarship Challenge: 
 
 | Lesson | Total Video Time | Finish it in | Weekly Target |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | 1. Welcome to the Scholarship Challenge! | 30 minutes | 30 minutes | Week 1 |
 | 2. Introduction to Neural Networks | 2 hours | 5 hours | Week 1 |
 | 3. Talking PyTorch with Soumith Chintala | 30 minutes | 30 minutes | Week 1 |
