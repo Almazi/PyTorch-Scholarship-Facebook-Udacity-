@@ -1,17 +1,37 @@
-# PyTorch-Scholarship-Facebook-Udacity-
-PyTorch Scholarship Challenge Nanodegree Program by Facebook and Udacity
+# PyTorch Scholarship Challenge Nanodegree Program by Facebook and Udacity
 This repo contains my info and code from the Facebook PyTorch scholarship challange.
 
 ## Suggested-Deadline-Table ##
 The following table lists suggested deadlines for the Facebook PyTorch Scholarship Challenge: 
 
-| Lesson | Suggested Deadline |
+| Lesson | Total Video Time | Finish it in | Weekly Target |
 | --- | --- |
-| One: Intoduction to Deep Learning | 11/17/18 |
-| Two: Introduction to PyTorch | 11/25/18 |
-| Three: Deep Learning with PyTorch | 12/3/18 |
-| Four: Convolutional Neural Networks | 12/11/18 |
-| Five: Style Transfer | 12/19/18 |
-| Six: Recurrent Neural Networks | 12/27/18 |
-| Seven: Natural Language Classification | 1/4/19 |
-|  Eight: Deploying with PyTorch and Lab | 1/9/19 |
+| 1. Welcome to the Scholarship Challenge! | 30 minutes | 30 minutes | Week 1 |
+| 2. Introduction to Neural Networks | 2 hours | 5 hours | Week 1 |
+| 3. Talking PyTorch with Soumith Chintala | 30 minutes | 30 minutes | Week 1 |
+| 4. Introduction to PyTorch | 2 hours | 5 hours | Week 2 |
+| 5. Convolutional Neural Networks | 5 hours | 10 hours | Week 2 |
+| 6. Style Transfer | 4 hours 35 minutes | 8 hours | Week 3 |
+| 7. Recurrent Neural Networks | 5 hours | 10 hours | Week 3 and Week 4 |
+| 8. Sentiment Prediction with RNNs | 2 hours | 5 hours | Week 4 |
+| 9. Deploying PyTorch Models | 30 minutes | 2 hours | Week 4 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
